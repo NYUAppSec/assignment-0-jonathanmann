@@ -2,6 +2,7 @@
 File Name: homework0.c
 Assignment: 0
 Description: Prints the SHA256 hashed "flag" based on a salted email.
+Updated: 2025-01-09 17:34:46
 ******************************/
 
 #include <stdio.h>
